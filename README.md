@@ -46,9 +46,7 @@ streamlit run main.py
 ## Note
 
 The index out of range error occurs due to  the langchain version,so choose the appropriate version.
-
-
-# happy coding -ram 👋
+- happy coding -ram
 
 
 
