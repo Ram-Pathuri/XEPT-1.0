@@ -45,6 +45,4 @@ streamlit run main.py
 - env: Configuration file for storing your OpenAI API key.
 ## Note
 
-The index out of range error occurs due to  the langchain version,so choose the appropriate version.
-
-                                                     ## Happy Coding
+The index out of range error occurs due to  the langchain version,so choose the appropriate version🤗.
