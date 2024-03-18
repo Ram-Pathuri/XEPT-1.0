@@ -12,8 +12,8 @@ from langchain.vectorstores import FAISS
 from dotenv import load_dotenv
 load_dotenv()  # Take env variables from .env
 
-st.title("News Research Tool")
-st.sidebar.title("News Article URLs")
+st.title("XEPT-1.0")
+st.sidebar.title("Article URLs")
 
 urls = []
 file_path = "faiss_store_openai.pkl"
